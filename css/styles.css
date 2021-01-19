@@ -9,8 +9,8 @@ h1{
 }
 .wholecontainer{
   /* background: chartreuse; */
-  width: 800px;
-  display: flex;
+  width: 400px;
+  /* display: flex; */
   justify-content: space-between;
   margin: 20px auto;
   padding: 20px;
@@ -90,7 +90,7 @@ h1{
   background: red;
   border: 1px solid red;
   border-radius: 180px;
-  margin: 100px auto;
+  margin: 20px auto;
   box-shadow: 0 10px 0  rgb(196, 44, 44);
   cursor: pointer;
   user-select: none;
@@ -119,8 +119,8 @@ h1{
   margin: auto;
   padding: 30px;
   position: absolute;
-  top: 50px;
-  left: 800px;
+  top: 95px;
+  left: 500px;
   right: 0px;
   transition: .4s;
 }
@@ -134,12 +134,15 @@ h1{
   transform: translateY(-800px);
 }
 
+@media(min-width:900px){
 
-/* #words > li.stateV{
-  font-size: 18px;
+  .wholecontainer{
+    /* background: chartreuse; */
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    padding: 20px;
+  }
+
 }
-#words > li.stateA{
-  color: red;
-  font-weight: bold;
-} */
-
