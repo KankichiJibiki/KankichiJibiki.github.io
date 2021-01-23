@@ -96,8 +96,8 @@ h1{
   user-select: none;
 }
 #pickcontainer:active{
-  margin: 105px auto;
-  box-shadow: 0 5px 0 rgb(196, 44, 44);
+  padding-top: 5px ;
+  box-shadow: none;
 }
 #pickcontainer:hover{
   opacity: 0.8;
