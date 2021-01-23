@@ -373,7 +373,7 @@
     m:['','','','','']},
     {d:'124:Nov 9', 
     v:['if you ask me','pick up on','with that being said','at (Time) sharp','laid-back adj'],
-    m:['','','','','']},
+    m:['言うならば','気が付く','そうは言ったものの/ということで','ちょうど～時','落ち着いている']},
     {d:'125:Nov 10', 
     v:['fall back on','perpetrate','outside of','honorific','elucidate'],
     m:['頼る','commit','~以外に','敬語','clarify']},
@@ -530,6 +530,18 @@
     {d:'176:Jan 19', 
     v:['above and beyond','nonchalant','spurious','treachrous','cringy'],
     m:['期待を超える','平然と','胡散臭い','不誠実な','イタイ']},
+    {d:'177:Jan 20', 
+    v:['devious','lethergic','retrieve','to some extent','bright and early'],
+    m:['treacherous','slugish','get back','ある程度','早朝']},
+    {d:'178:Jan 21', 
+    v:['erratic','subdued','in the cards','dont hold your breath','high end s.t'],
+    m:['不規則な','空気がよどんだ','likely to happen','期待しないで','高級な・高性能な']},
+    {d:'179:Jan 22', 
+    v:['heed','reminisce','perfunctory','think straight','be accustomed to'],
+    m:['耳を傾ける','思い出にふける','おざなりな','まともに考える','習慣やライフスタイルなどに慣れている']},
+    {d:'180:Jan 23', 
+    v:['ameliorate','harsh','switch over to','one-shot','counter intuitive'],
+    m:['improve','厳しい','切り替える','one-off','直観に反すること']},
   ];
 
   // *****----End of Vocabraly----*****
