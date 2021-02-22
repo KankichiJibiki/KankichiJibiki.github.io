@@ -585,17 +585,41 @@
     v:['egregious','copious','pertinent','that way','talk the talk','walk the walk'],
     m:['','','','','']},
     {d:'195:Feb 10', 
-    v:['consequent','illicit','keep on the low','ferocious',"make someone's expectation"],
+    v:['consequent','illicit','keep on the low','ferocious',"meet someone's expectation"],
     m:['','','','','']},
     {d:'196:Feb 11', 
     v:['frail','perks','look through','redundant','significant amount of'],
+    m:['','','','','']},
+    {d:'197:Feb 12 ', 
+    v:['versatile','paid time off','lenient','love-hate-relationship','lurch'],
+    m:['','','','','']},
+    {d:'198:Feb 14', 
+    v:['bank of question','cram','pick up','volatile',"meet one's expectation"],
+    m:['','','','','']},
+    {d:'199:Feb 15', 
+    v:['pass the time','shy away from','middle of nowhere','whip up','start out with'],
+    m:['','','','','']},
+    {d:'200:Feb 16', 
+    v:['devalue','a hit or miss','Slipped my mind','up until','put/lay/place emphasis on','gung-ho'],
+    m:['','','','','']},
+    {d:'201:Feb 18', 
+    v:['evade','demean','essentially ','made for ','get bent out of shape'],
+    m:['','','basiclly','cut out for','']},
+    {d:'202:Feb 19', 
+    v:['hassle','tenacious','imprudent',"say what's on ones mind",'off the cuff'],
+    m:['','','','','']},
+    {d:'203:Feb 22', 
+    v:['a fine line between','spirit','prudent','take a toll on','speak ones mind'],
+    m:['','','','','']},
+    {d:'204:Feb 23', 
+    v:['pushover','blemish','walk over someone','hold back','back down'],
     m:['','','','','']},
   ];
 
   // *****----End of Vocabraly----*****
 
   const numbers = [];
-  for (let i = 0; i < 197; i++){
+  for (let i = 0; i < 205; i++){
     numbers[i] = i + 1;
   }
 
