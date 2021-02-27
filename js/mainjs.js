@@ -614,12 +614,24 @@
     {d:'204:Feb 23', 
     v:['pushover','blemish','walk over someone','hold back','back down'],
     m:['','','','','']},
+    {d:'205:Feb 24', 
+    v:['get a head','fizzle out','brisk','age old','for reason'],
+    m:['','','','','']},
+    {d:'206:Feb 25', 
+    v:['religiously','come down to','cynicle','keep food on the table','unblemished'],
+    m:['','~次第・かかっている','','','']},
+    {d:'207:Feb 26', 
+    v:['fad','aside from','conscription','get/be shufted','blood, sweat and tears','corporate people'],
+    m:['','','','','']},
+    {d:'208:Feb 27', 
+    v:['come from ~ background','be burned out','thrive','live by','uncalled for'],
+    m:['','','','','']},
   ];
 
   // *****----End of Vocabraly----*****
 
   const numbers = [];
-  for (let i = 0; i < 205; i++){
+  for (let i = 0; i < 209; i++){
     numbers[i] = i + 1;
   }
 
