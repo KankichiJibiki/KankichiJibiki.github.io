@@ -88,7 +88,7 @@
     m:['','','','','']},
     {d:'29:June 17', 
     v:['sketchy','P + the wee hours','photogenic','platitude','grapple with'],
-    m:['','','','','']},
+    m:['vague','American English the early hours of the morning, just after 12 o’clock at night','','','']},
     {d:'30:June 18', 
     v:['at this ungodly hour','Squirm(wriggle)','Scoot (off)','With alacrity','Novelty'],
     m:['','','','','']},
@@ -625,6 +625,9 @@
     m:['','','','','']},
     {d:'208:Feb 27', 
     v:['come from ~ background','be burned out','thrive','live by','uncalled for'],
+    m:['','','','','']},
+    {d:'209:Mar 3', 
+    v:['','','','',''],
     m:['','','','','']},
   ];
 
