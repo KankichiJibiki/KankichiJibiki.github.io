@@ -627,6 +627,45 @@
     v:['come from ~ background','be burned out','thrive','live by','uncalled for'],
     m:['','','','','']},
     {d:'209:Mar 3', 
+    v:['depletion','it just goes to show','on the edge of my seat','per se','flop','in the mood for'],
+    m:['','','','','']},
+    {d:'210:Mar 4', 
+    v:['sit through','what goes around, comes around','put s.t on hold','cat fish','interfere'],
+    m:['','','','','meddle']},
+    {d:'211:Mar 6', 
+    v:['daunting','toss around','model after','throwback to','extra hands'],
+    m:['','','','','']},
+    {d:'212:Mar 7', 
+    v:['fantasize','blow off','be stuck on','abruptly','leave s.t hanging'],
+    m:['','','','','']},
+    {d:'213:Mar 8', 
+    v:['go along way','hands-on','rerun','compulsory','hand off'],
+    m:['','','','','']},
+    {d:'214:Mar 10', 
+    v:['intrepid','distract','mam and dad shop','slack off','iconic'],
+    m:['','','','','']},
+    {d:'215:Mar 11', 
+    v:['bland','make money off','pay cut','inadequate','stick with'],
+    m:['','','','','']},
+    {d:'216:Mar 12', 
+    v:['phenomenal','add up to','no less than','the bottom line','trunout','millenial'],
+    m:['','','最低でも(大きい値)','','','']},
+    {d:'217:Mar 15', 
+    v:['balance out','on occasion','be set on','probationary period','it has nothing to do with'],
+    m:['','','','','']},
+    {d:'218:Mar 16', 
+    v:['pet peeve','downturn','rush','ingrained in','six feet under','bond with'],
+    m:['','','','','']},
+    {d:'219:Mar 17', 
+    v:['drug off','strike up a conversation','make the best of','sleazzy','I would rather not'],
+    m:['','','','','']},
+    {d:'220:Mar 20', 
+    v:['hit it off with','petty','marginalize ','crack up','identify with'],
+    m:['','','','','']},
+    {d:'221:Mar ', 
+    v:['','','','',''],
+    m:['','','','','']},
+    {d:'222:Mar ', 
     v:['','','','',''],
     m:['','','','','']},
   ];
@@ -634,7 +673,7 @@
   // *****----End of Vocabraly----*****
 
   const numbers = [];
-  for (let i = 0; i < 209; i++){
+  for (let i = 0; i < 217; i++){
     numbers[i] = i + 1;
   }
 
