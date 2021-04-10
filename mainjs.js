@@ -705,14 +705,26 @@
     v:['no joke','skim off','wind up','good value for ones money',"that's very someone to do"],
     m:['','','','','']},
     {d:'235:Mar 4', 
-    v:['','','','',''],
+    v:['buy into','sponge off','stand in for',"I'll give you that but...",'blast'],
+    m:['','','','','']},
+    {d:'236:Mar 6', 
+    v:['pomper','tick off','a whole new game',"all over the place",'bring out the best'],
+    m:['','','','なんでも～するよ(どんな曲でも聞くよ的な)','']},
+    {d:'237:Mar 8', 
+    v:['high-strung','troll','side effect',"dawn on me that",'self-esteem'],
+    m:['','','','','']},
+    {d:'238:Mar 9', 
+    v:['perception','more than happy','have a soft spot for ',"pop up into ones mind/head",'spoiler'],
+    m:['','','','','']},
+    {d:'239:Mar 10', 
+    v:['get s.o in groove','aptitude','reserved',"flaky",'on the bright side'],
     m:['','','','','']},
   ];
 
   // *****----End of Vocabraly----*****
 
   const numbers = [];
-  for (let i = 0; i < 235; i++){
+  for (let i = 0; i < 240; i++){
     numbers[i] = i + 1;
   }
 
