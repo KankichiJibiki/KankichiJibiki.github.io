@@ -704,27 +704,48 @@
     {d:'234:Apr 3 ', 
     v:['no joke','skim off','wind up','good value for ones money',"that's very someone to do"],
     m:['','','','','']},
-    {d:'235:Mar 4', 
+    {d:'235:Apr 4', 
     v:['buy into','sponge off','stand in for',"I'll give you that but...",'blast'],
     m:['','','','','']},
-    {d:'236:Mar 6', 
+    {d:'236:Apr 6', 
     v:['pomper','tick off','a whole new game',"all over the place",'bring out the best'],
     m:['','','','なんでも～するよ(どんな曲でも聞くよ的な)','']},
-    {d:'237:Mar 8', 
+    {d:'237:Apr 8', 
     v:['high-strung','troll','side effect',"dawn on me that",'self-esteem'],
     m:['','','','','']},
-    {d:'238:Mar 9', 
+    {d:'238:Apr 9', 
     v:['perception','more than happy','have a soft spot for ',"pop up into ones mind/head",'spoiler'],
     m:['','','','','']},
-    {d:'239:Mar 10', 
+    {d:'239:Apr 10', 
     v:['get s.o in groove','aptitude','reserved',"flaky",'on the bright side'],
+    m:['','','','','']},
+    {d:'240:Apr 12', 
+    v:['ulterior motive','creep s.o out','sentimental',"rampant",'(fly) under the rader'],
+    m:['','','','','']},
+    {d:'241:Apr 13', 
+    v:['haggle','buckle down','as far as ~ goes',"pick ones up",'next big thing'],
+    m:['','','','cheer up','fad']},
+    {d:'242:Apr 14', 
+    v:['no-go','cover ones ear','guilty peasure',"more or less",'signiture s.t'],
+    m:['not allowed and unacceptable','','','','']},
+    {d:'243:Apr 15', 
+    v:['as far as im concerned','scramble','look to',"you cant go wrong with",'hole in the wall'],
+    m:['','','rely on','','']},
+    {d:'244:Apr 16', 
+    v:['carse','out of sorts','backlog',"fall on",'oldie'],
+    m:['','','','','']},
+    {d:'245:Apr ', 
+    v:['','','',"",''],
+    m:['','','','','']},
+    {d:'246:Apr ', 
+    v:['','','',"",''],
     m:['','','','','']},
   ];
 
   // *****----End of Vocabraly----*****
 
   const numbers = [];
-  for (let i = 0; i < 240; i++){
+  for (let i = 0; i < 245; i++){
     numbers[i] = i + 1;
   }
 
