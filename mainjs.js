@@ -496,7 +496,7 @@
     m:['','','','','']},
     {d:'165:Dec 28', 
     v:['push back','resonate','get in habit of','recap','suit yourself'],
-    m:['','','','','']},
+    m:['日付を延ばす','~に響く','習慣を身に着ける','まとめ、まとめる','好きにしろ']},
     {d:'166:Dec 29', 
     v:['push forward','over-the-top','Rub off on','(get) stale','goal-oriented'],
     m:['日付を前倒しにする','盛る','良い影響を与える',' air that is stale is not fresh or pleasant OPP fresh','目標志向']},
@@ -743,7 +743,7 @@
     {d:'247:Apr 23', 
     v:['dazed ','excessive','profanity',"meaning behind",'pump out'],
     m:['唖然としている','過度の','Curse','～意味の裏に','1 if something such as music, information, or a supply of products pumps out, or if someone pumps it out, a lot of it is produced']},
-    {d:'246:Apr ', 
+    {d:'248:Apr ', 
     v:['','','',"",''],
     m:['','','','','']},
   ];
@@ -751,7 +751,7 @@
   // *****----End of Vocabraly----*****
 
   const numbers = [];
-  for (let i = 0; i < 245; i++){
+  for (let i = 0; i < 248; i++){
     numbers[i] = i + 1;
   }
 
