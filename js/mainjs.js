@@ -770,7 +770,37 @@
     {d:'256:May 14', 
     v:['side gig','preliminary','the name of the game',"work on",'pass on'],
     m:['副業','事前の','～が重要なこと','improveするために動く、働く','パスする、遠慮しておく']},
-    {d:'256:May ', 
+    {d:'257:May 14', 
+    v:['hidden spot','unkept','turn the corner',"(play) the waiting game",'regroup'],
+    m:['隠れ場','整理されていない、手入れされていない','峠を越す、危機を脱する','待つだけ','気持ちを入れ替える']},
+    {d:'258:May 16', 
+    v:['stock up on','middle ground','in/by leaps and bounds',"put aside",'be rattled'],
+    m:['必要以上にStockする','妥協点','急速に','取っておく','upset']},
+    {d:'259:May 18', 
+    v:['get in ones face',' to a certain degree','unkempt',"call s.o over",'let ones hair down'],
+    m:['','','','','']},
+    {d:'260:May 19', 
+    v:['portray','level-headed','delicasy',"trait",'retaliate'],
+    m:['','','','','']},
+    {d:'261:May 20', 
+    v:['propitious','boast','in the same breath',"across the board",'pull in the reins'],
+    m:['','','','','']},
+    {d:'262:May 21', 
+    v:['main stream','interpret','ones avarage',"amicable",'be rattled','raise ones voice'],
+    m:['','','','','','']},
+    {d:'263:May 22', 
+    v:['brag','be beside oneself','tit for tat',"one of the these days",'bluff'],
+    m:['','','','','']},
+    {d:'264:May 23', 
+    v:['dwell on','brush up','in need',"sink in",'all corner'],
+    m:['','','','','']},
+    {d:'265:May 24', 
+    v:['be credited with','pliable','big thind',"check up on",'despise','in ones presence'],
+    m:['','','','','']},
+    {d:'257:May 14', 
+    v:['','','',"",''],
+    m:['','','','','']},
+    {d:'257:May 14', 
     v:['','','',"",''],
     m:['','','','','']},
   ];
@@ -778,7 +808,7 @@
   // *****----End of Vocabraly----*****
 
   const numbers = [];
-  for (let i = 0; i < 249; i++){
+  for (let i = 0; i < 266; i++){
     numbers[i] = i + 1;
   }
 
