@@ -398,15 +398,17 @@ form label{
 }
 
 
-/* .reserve-time *{
+.reserve-time *{
   width: auto;
-} */
-
-.reserve-time {
-  display: flex;
+  position: relative;
+  left: 25%;
 }
 
-.reserve-time label{
+/* .reserve-time {
+  display: flex;
+} */
+
+/* .reserve-time label{
   margin: 0;
 }
 
@@ -414,7 +416,7 @@ form label{
   position: relative;
   left: 5%;
   margin: 0;
-}
+} */
 
 form p{
   text-align: center;
@@ -498,8 +500,16 @@ footer{
   display: block;
 }
 
-.footer-container div:nth-child(3) form * {
+/* .footer-container div:nth-child(3) form * {
   width: auto;
+} */
+
+.footer-container div:nth-child(3) form{
+  display: flex;
+}
+
+.footer-container form input[type="submit"]{
+  width: 10px;
 }
 
 .footer-of-footer{
