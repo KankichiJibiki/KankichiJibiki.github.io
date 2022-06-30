@@ -474,7 +474,7 @@ footer{
   display: flex;
   /* temp */
   /* border: 2px solid aqua; */
-  width: 85%;
+  width: 88%;
   margin: 10px auto;
   /* padding-top: 2em; */
 }
@@ -500,17 +500,17 @@ footer{
   display: block;
 }
 
-/* .footer-container div:nth-child(3) form * {
+.footer-container div:nth-child(3) form * {
   width: auto;
-} */
+}
 
-.footer-container div:nth-child(3) form{
+/* .footer-container div:nth-child(3) form{
   display: flex;
 }
 
 .footer-container form input[type="submit"]{
   width: 10px;
-}
+} */
 
 .footer-of-footer{
   background-color: #140f02;
